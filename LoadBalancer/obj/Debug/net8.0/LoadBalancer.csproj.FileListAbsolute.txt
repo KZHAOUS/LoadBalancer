@@ -1,0 +1,5 @@
+D:\git\LoadBalancer\LoadBalancer\LoadBalancer\obj\Debug\net8.0\LoadBalancer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\LoadBalancer\LoadBalancer\LoadBalancer\obj\Debug\net8.0\LoadBalancer.AssemblyInfoInputs.cache
+D:\git\LoadBalancer\LoadBalancer\LoadBalancer\obj\Debug\net8.0\LoadBalancer.AssemblyInfo.cs
+D:\git\LoadBalancer\LoadBalancer\LoadBalancer\obj\Debug\net8.0\LoadBalancer.csproj.CoreCompileInputs.cache
+D:\git\LoadBalancer\LoadBalancer\LoadBalancer\obj\Debug\net8.0\LoadBalancer.sourcelink.json
